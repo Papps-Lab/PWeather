@@ -3,7 +3,7 @@ Papps-Lab: Weather Website
 
 This repository contains the code for a weather website built with HTML, CSS, and JavaScript.
 
-Features:
+# Features:
 
 ●Displays current weather or forecast.
 
@@ -11,7 +11,7 @@ Features:
 
 ●Display additional details like humidity, wind speed.
 
-Technologies Used:
+# Technologies Used:
 
 HTML: Provides the structure and content of the website.
 
@@ -19,10 +19,10 @@ CSS: Styles the website for visual appeal and responsiveness.
 
 JavaScript: Adds interactivity and fetches weather data.
 
-Contributing:
+# Contributing:
 
 We welcome contributions to this project! Feel free to fork the repository, add new features,improve the user interface, or fix bugs. Submit a pull request for review and potential merging.
 
-License:
+# License:
 
 This project is licensed under GPL-2.0.
