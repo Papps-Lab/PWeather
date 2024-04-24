@@ -19,6 +19,10 @@ CSS: Styles the website for visual appeal and responsiveness.
 
 JavaScript: Adds interactivity and fetches weather data.
 
+# Screenshot:
+![Screenshot](https://github.com/Papps-Lab/PWeather/blob/main/screenshot--.png)
+
+
 # Contributing:
 
 We welcome contributions to this project! Feel free to fork the repository, add new features,improve the user interface, or fix bugs. Submit a pull request for review and potential merging.
